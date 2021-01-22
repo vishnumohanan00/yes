@@ -1,0 +1,2 @@
+color gradient: background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(80,70,66,1) 0%, rgba(194,172,109,1) 0%, rgba(164,145,98,1) 0%, rgba(210,186,115,1) 0%, rgba(228,202,122,1) 15%, rgba(248,220,129,1) 22%, rgba(183,218,162,1) 75%, rgba(154,217,177,1) 85%, rgba(106,216,201,1) 95%, rgba(106,216,201,1) 95%, rgba(82,215,213,1) 100%, rgba(0,212,255,1) 100%);
+color:background-color: #fdffbc;
