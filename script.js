@@ -27,7 +27,7 @@
             e.preventDefault()
             $.ajax({
              url:"https://script.google.com/macros/s/AKfycbzxZNtnbldiXegeriTZS-KBZdExRfgc_MwOGa40z4bGzySypLskdETc/exec",
-             data:$("#submit-form").serialize(),
+             data:$("#submitform").serialize(),
              method:"post",
              success:function (response){
                 alert("Form submitted successfully")
